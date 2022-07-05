@@ -4,7 +4,7 @@ A simple CRUD application in ASP.NET Core using Visual Studio and the C# languag
 ## Key Points
 	• Implemented MVC (Model View Controller) design pattern.
 	• Configured database tables using the Entity framework.
-	• Setup of classes as models. Customize Razor forms.
+	• Setup of classes as models. Customized Razor forms.
 	• Created methods inside a controller.
 	• Styled an ASP.NET page with CSS.
 	• Used Bootstrap classes.
